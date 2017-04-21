@@ -1,3 +1,5 @@
 process.env.REQUEST_TOKEN = 'ef04d664f0477ad4852e69dfdad1b47b'
 process.env.LANGUAGE = 'fr'
 process.env.PORT = '5000'
+process.env.GITHUB_TOKEN = '233e40c2fd854d999a506e64cd5829ea'
+process.env.GITHUB_USERNAME = 'InesBensalah'
